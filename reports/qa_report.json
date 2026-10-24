@@ -1,0 +1,18 @@
+{
+    "/chatter": {
+        "topic": "/chatter",
+        "total_messages": 2,
+        "duration_sec": 0.0,
+        "avg_fps": 0.0,
+        "anomalies_count": 0,
+        "anomalies": []
+    },
+    "/diagnostics": {
+        "topic": "/diagnostics",
+        "total_messages": 1,
+        "duration_sec": 0.0,
+        "avg_fps": 0.0,
+        "anomalies_count": 0,
+        "anomalies": []
+    }
+}
